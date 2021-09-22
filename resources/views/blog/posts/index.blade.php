@@ -5,6 +5,8 @@
     <div class="container">
         <div class="row justify-content-center">
 
+            <h1>Я добавил заголовок</h1>
+
             <table>
                 @foreach ($items as $item)
                     <tr>
